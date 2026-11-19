@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Liste_contact_v3" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_primary</item>
+    </style>
+
+    <style name="Theme.Liste_contact_v3" parent="Base.Theme.Liste_contact_v3" />
+
+    <style name="Circular">
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>
